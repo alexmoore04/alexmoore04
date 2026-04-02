@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Alex Moore 👋
 
-<!--
-**alexmoore04/alexmoore04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer with professional experience in C# and .NET, currently based in the South East of England. I hold a First-Class Honours degree in Computer Science for Games from the University of Brighton, and I love building things — whether that's production software in an Agile team or a procedurally generated game in Unity.
 
-Here are some ideas to get you started:
+I'm open to new opportunities in both software engineering and games development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+**Proficient:** C# · C++ · Unity · Git · Visual Studio · Rider · Jira · .NET  
+**Familiar:** Python · JavaScript · HTML · CSS · Java · Unreal Engine · Phaser  
+**Practices:** OOP · Agile/Scrum · Unit Testing · Code Review · Technical Documentation
+
+---
+
+## 🎮 Featured Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| [Procedural Roguelike](https://github.com/alexmoore04/roguelike-game) | Final year project — procedurally generated roguelike with dynamic difficulty adjustment, studying player preference for tailored experiences | Unity · C# |
+| [Multiplayer Fighting Game](https://github.com/alexmoore04/CI628-Client) | Street Fighter-style multiplayer game with separate client and server architecture | C++ · Java |
+| [Game Engine Collision Module](https://github.com/alexmoore04/CI517_XCube2D) | Custom game engine module focusing on collision detection and resolution | C++ |
+| [Apple Catcher](https://github.com/alexmoore04/Apple-catcher) | 2D arcade-style catching game built from scratch in C++ | C++ |
+
+---
+
+## 💼 Experience
+
+- **Junior Software Engineer** @ Infigo *(Feb 2025 – Present)*
+- **Game Programmer Intern** @ Serious Point Games *(Aug 2024 – Jan 2025)*
+- **BSc Computer Science for Games, First Class Honours** — University of Brighton *(2021–2024)*
+
+---
+
+## 📫 Get in Touch
+
+- 🌐 Portfolio: [alexmooreportfolio.uk](https://www.alexmooreportfolio.uk)
+- 💼 LinkedIn: [linkedin.com/in/alex-moore-6bb071224](https://www.linkedin.com/in/alex-moore-6bb071224/)
+- 📧 Email: alexstephenmoore@gmail.com
