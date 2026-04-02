@@ -18,10 +18,10 @@ I'm open to new opportunities in both software engineering and games development
 
 | Project | Description | Tech |
 |---|---|---|
-| [Procedural Roguelike](https://github.com/alexmoore04/roguelike-game) | Final year project — procedurally generated roguelike with dynamic difficulty adjustment, studying player preference for tailored experiences | Unity · C# |
-| [Multiplayer Fighting Game](https://github.com/alexmoore04/CI628-Client) | Street Fighter-style multiplayer game with separate client and server architecture | C++ · Java |
-| [Game Engine Collision Module](https://github.com/alexmoore04/CI517_XCube2D) | Custom game engine module focusing on collision detection and resolution | C++ |
-| [Apple Catcher](https://github.com/alexmoore04/Apple-catcher) | 2D arcade-style catching game built from scratch in C++ | C++ |
+| [Procedural Roguelike](https://github.com/alexmoore04/CI601-pg) | Final year project — procedurally generated roguelike with dynamic difficulty adjustment, studying player preference for tailored experiences | Unity · C# |
+| [Multiplayer Fighting Game](https://github.com/alexmoore04/multiplayer-pong-client) | Street Fighter-style multiplayer game with separate client and server architecture | C++ · Java |
+| [Game Engine Collision Module](https://github.com/alexmoore04/game-engine-collision-module) | Custom game engine module focusing on collision detection and resolution | C++ |
+| [Safe Mechanic — Internship](https://github.com/alexmoore04/SafeMechanicSPG) | Safe/lock interaction mechanic built to industry standards during internship at Serious Point Games | Unity · C# |
 
 ---
 
